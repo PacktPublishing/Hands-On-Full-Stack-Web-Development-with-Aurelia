@@ -60,7 +60,7 @@ With the following software and hardware list you can run all code files present
 
 * Learning Aurelia [[Packt]](https://www.packtpub.com/web-development/learning-aurelia?utm_source=github&utm_medium=repository&utm_campaign=9781785889677) [[Amazon]](https://www.amazon.com/dp/1785889672)
 
-## Get to Know the Author(s)
+## Get to Know the Authors
 **Diego Jose Argüelles Rojas**
 Diego Jose Argüelles Rojas is a software developer born in Peru, passionate about technology, music, comics, and beer. He currently works for companies in North America and Europe remotely and simultaneously finishing his professional studies in Brazil. His main objective is to contribute to projects of social impact and to make the world a better place for all.
 
