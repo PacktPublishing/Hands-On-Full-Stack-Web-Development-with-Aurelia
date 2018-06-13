@@ -1,0 +1,30 @@
+<template>
+  <div class="center-align" id="sign-up-div">
+    <form>
+      <md-card md-title="New Account">
+        <div if.bind="registering">
+          <md-progress md-type="circular" md-color="blue"></md-progress>
+        </div>
+        <div class="row">
+          <div>
+            <md-input md-type="text" md-label="Username:" md-value.bind="user.username"></md-input>
+          </div>
+          <div>
+            <md-input md-type="password" md-label="Password:" md-value.bind="user.password"></md-input>
+          </div>
+          <div>
+            <md-input md-type="password" md-label="Repite Password:" md-value.bind="validatePassword"></md-input>
+          </div>
+
+        </div>
+
+        <div class="auth-error-message" if.bind="error">
+          ${ error }
+        </div>
+        <button type="submit" click.trigger="signUp()" md-button="flat: false;" md-waves="color: accent;">Join</button>
+        <br/> <br/>
+        or <a route-href="route: login">Log In</a>
+      </md-card>
+    </form>
+  </div>
+</template>

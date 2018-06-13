@@ -1,0 +1,27 @@
+<template>
+
+  <div class="center-align" id="sign-in-div">
+    <form>
+      <md-card md-title="Enter your credentials">
+        <div if.bind="login">
+          <md-progress md-type="circular" md-color="blue"></md-progress>
+        </div>
+        <div class="row">
+          <div>
+            <md-input  view-model.ref="txtUsername" md-type="text" md-label="Username:" md-value.bind="user.username"></md-input>
+          </div>
+          <div>
+            <md-input md-type="password" md-label="Password:" md-value.bind="user.password"></md-input>
+          </div>
+        </div>
+
+        <div class="auth-error-message" if.bind="error">
+          ${ error }
+        </div>
+        <button type="submit" click.trigger="signIn()" md-button="flat: false;" md-waves="color: accent;">Log In</button>
+        <br/> <br/>
+        or <a route-href="route: join">Join</a>
+      </md-card>
+    </form>
+  </div>
+</template>

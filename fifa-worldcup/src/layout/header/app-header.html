@@ -1,0 +1,12 @@
+<template>
+  <md-navbar>
+    <div class="margin-content">
+
+      <ul class="hide-on-med-and-down right">
+        <li md-waves if.bind="!loggedIn"><a route-href="route: login">Login</a></li>
+        <li md-waves if.bind="!loggedIn"><a route-href="route: join">Join</a></li>
+        <li md-waves if.bind="loggedIn"><a route-href="route: join" click.trigger="logout()">Logout</a></li>
+      </ul>
+    </div>
+  </md-navbar>
+</template>

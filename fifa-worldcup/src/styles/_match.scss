@@ -1,0 +1,31 @@
+.blink_me {
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+
+.live-transmition{
+  color: darkgreen;
+}
+
+.match-finished{
+  .card-content{
+    background-color: #dddddd;
+  }
+}
+
+.match-list{
+  .add-match{
+    margin-top: 1em;
+  }
+}
+
+.match-live{
+  .timer{
+    margin-top: 0.2em;
+  }
+}
