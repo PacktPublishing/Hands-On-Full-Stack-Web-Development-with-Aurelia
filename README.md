@@ -61,11 +61,9 @@ With the following software and hardware list you can run all code files present
 * Learning Aurelia [[Packt]](https://www.packtpub.com/web-development/learning-aurelia?utm_source=github&utm_medium=repository&utm_campaign=9781785889677) [[Amazon]](https://www.amazon.com/dp/1785889672)
 
 ## Get to Know the Authors
-**Diego Jose Argüelles Rojas**
-Diego Jose Argüelles Rojas is a software developer born in Peru, passionate about technology, music, comics, and beer. He currently works for companies in North America and Europe remotely and simultaneously finishing his professional studies in Brazil. His main objective is to contribute to projects of social impact and to make the world a better place for all.
+**Diego Jose Argüelles Rojas** is a software developer born in Peru, passionate about technology, music, comics, and beer. He currently works for companies in North America and Europe remotely and simultaneously finishing his professional studies in Brazil. His main objective is to contribute to projects of social impact and to make the world a better place for all.
 
-**Erikson Haziz Murrugarra Sifuentes**
-Erikson Haziz Murrugarra Sifuentes is a computer engineer, scrum master, and DevOps Master with 8 years of experience in building different kinds of software solutions, such as his own programming language, called Erlan, and his own Operating System, called EriOS. He is an Amazon-certified solutions architect and works as a full stack software engineer at Verizon Enterprise. He is an expert in Big data / Business Intelligence and has implemented complex big data solutions for one of the biggest bank of Peru called BCP.
+**Erikson Haziz Murrugarra Sifuentes** is a computer engineer, scrum master, and DevOps Master with 8 years of experience in building different kinds of software solutions, such as his own programming language, called Erlan, and his own Operating System, called EriOS. He is an Amazon-certified solutions architect and works as a full stack software engineer at Verizon Enterprise. He is an expert in Big data / Business Intelligence and has implemented complex big data solutions for one of the biggest bank of Peru called BCP.
 
 
 ### Suggestions and Feedback
