@@ -1,6 +1,6 @@
 # Hands-On Full Stack Web Development with Aurelia
 
-<a href="https://www.packtpub.com/web-development/hands-full-stack-web-development-aurelia?utm_source=github&utm_medium=repository&utm_campaign=9781788833202"><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B09593_MockupCover.png" alt="Hands-On Full Stack Web Development with Aurelia" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/web-development/hands-full-stack-web-development-aurelia?utm_source=github&utm_medium=repository&utm_campaign=9781788833202"><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B09593.png" alt="Hands-On Full Stack Web Development with Aurelia" height="256px" align="right"></a>
 
 This is the code repository for [Hands-On Full Stack Web Development with Aurelia](https://www.packtpub.com/web-development/hands-full-stack-web-development-aurelia?utm_source=github&utm_medium=repository&utm_campaign=9781788833202), published by Packt.
 
