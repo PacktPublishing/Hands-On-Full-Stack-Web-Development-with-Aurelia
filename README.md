@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B09593?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Hands-On Full Stack Web Development with Aurelia
 
 <a href="https://www.packtpub.com/web-development/hands-full-stack-web-development-aurelia?utm_source=github&utm_medium=repository&utm_campaign=9781788833202"><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B09593.png" alt="Hands-On Full Stack Web Development with Aurelia" height="256px" align="right"></a>
